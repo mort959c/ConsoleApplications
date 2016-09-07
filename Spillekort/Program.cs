@@ -11,7 +11,7 @@ namespace SpillekortNameSpace
         public static void Main()
         {
             //Hjerter dame
-
+            //bla bla
             //SpilleKort Kort1 = new SpilleKort();
             //Kort1.Farve = SpilleKort_Farve.Hjerter;
             //Kort1.Værdi = 12;
